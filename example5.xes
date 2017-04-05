@@ -1,0 +1,1104 @@
+<?xml version="1.0" ?>
+<!--Created by Python XES https://pypi.python.org/pypi/xes-->
+<!--(c) Jonathan Sumrall - http://www.sumrall.nl-->
+<log xes.creator="Python XES v1.2" xes.version="1.0" xmlns="http://www.xes-standard.org">
+  <extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+  <extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+  <extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+  <extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext"/>
+  <global scope="trace"/>
+  <global scope="event">
+    <string key="org:resource" value="string"/>
+  </global>
+  <classifier keys="org:resource" name="org:resource"/>
+  <string key="creator" value="Python XES v1.2"/>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:resource" value="Random-Forest-Importance"/>
+    </event>
+    <event>
+      <string key="org:resource" value="Scatter-and-Histogram-Plot-of-Two-Variables"/>
+    </event>
+    <event>
+      <string key="org:resource" value="3-D-Variable-2-D-Slice"/>
+    </event>
+  </trace>
+</log>
