@@ -15,8 +15,8 @@ from xml.etree.ElementTree import fromstring
 import itertools
 import networkx as nx
    
-JPL_HOST_GET_WORKFLOW_BY_ID = "http://localhost:9005/serviceExecutionLog/getServiceExecutionLogByWorkflowId/"
-PROM_DIR = "/home/soc/Downloads/prom/prom-6.6-all-platforms/"
+JPL_HOST_GET_WORKFLOW_BY_ID = "http://hawking.sv.cmu.edu:9005/serviceExecutionLog/getServiceExecutionLogByWorkflowId/"
+PROM_DIR = "/home/new/m66m/"
 
 app = Flask(__name__)
 
@@ -118,4 +118,4 @@ def ttt():
         return "Please use GET."
 
 if __name__ == "__main__":
-    app.run(port=5000, host= '127.0.0.1', debug=True)
+    app.run(port=5000, host= '0.0.0.0', debug=True)
