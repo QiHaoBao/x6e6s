@@ -25,7 +25,7 @@ PROM_DIR = "/home/soc/Downloads/prom/prom-6.6-all-platforms/"
 
 app = Flask(__name__)
 
-@app.route("/test", methods=["GET"])
+@app.route("/findAllUowWithWorkflowId", methods=["GET"])
 def test():
     wid = request.args.get("wid")
     print "Getting Traces..."
