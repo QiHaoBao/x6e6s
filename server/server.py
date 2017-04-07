@@ -14,9 +14,13 @@ from xmljson import badgerfish as bf
 from xml.etree.ElementTree import fromstring
 import itertools
 import networkx as nx
-   
+from networkx.readwrite import json_graph
+
 JPL_HOST_GET_WORKFLOW_BY_ID = "http://localhost:9005/serviceExecutionLog/getServiceExecutionLogByWorkflowId/"
 PROM_DIR = "/home/soc/Downloads/prom/prom-6.6-all-platforms/"
+#JPL_HOST_GET_WORKFLOW_BY_ID = "http://hawking.sv.cmu.edu:9005/serviceExecutionLog/getServiceExecutionLogByWorkflowId/"
+#PROM_DIR = "/home/new/m66m/"
+
 
 app = Flask(__name__)
 
@@ -108,7 +112,20 @@ def test():
                 break
     print uow
         
-    return "Testing Result : " + json.dumps(uow)
+    jsonRes = {"all_uows" : []}
+    for pair in uow:
+        sub = nx.DiGraph()
+        for path in nx.all_simple_paths(G, source=pair[0], target=pair[1]):         
+            for node in path:
+                sub.add_node(node)
+        subG = nx.subgraph(G, sub)
+        print subG.nodes()
+        #nx.draw_networkx(subG)
+        #plt.show()    
+        jsonTmp = json_graph.node_link_data(subG)
+        jsonRes['all_uows'].append(jsonTmp)
+    
+    return json.dumps(jsonRes)
 
 @app.route("/ttt", methods=["GET"])
 def ttt():
@@ -118,4 +135,5 @@ def ttt():
         return "Please use GET."
 
 if __name__ == "__main__":
-    app.run(port=5000, host= '127.0.0.1', debug=True)
+    app.run(port=5000, host= '0.0.0.0', debug=True)
+    #app.run(port=5000, host= '127.0.0.1', debug=True)
